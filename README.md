@@ -1,7 +1,7 @@
 # phillies_questionaire
 
 a. 
-To improve this code, I would simplify the function down to one loop. The second loop in this function is not necessary. I would keep the first part of the function the same, creating a new string and adding all the characters of the string into the new string. Then, instead I would simply check if the input string is the same as the new string we created. If it is true, return True; else, return False. This will decrease the time complexity of the function from O(N^2) to O(N) and make the function more efficient on larger strings. The old function and the new function can be found in the document in folder named Question a. 
+To improve this code, I would simplify the function down to one loop. The second loop in this function is not necessary. I would keep the first part of the function the same, creating a new string and adding all the characters of the string into the new string. Then, instead I would simply check if the input string is the same as the new string we created. If it is true, return True; else, return False. This will decrease the time complexity of the function from O(N^2) to O(N) and make the function more efficient on larger strings. The old function and the new function can be found in the document named palindrome.py in the folder named Question a. 
 
 
 
