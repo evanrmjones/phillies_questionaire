@@ -19,6 +19,3 @@ def better_is_palindrome(s):
         return True 
     else: 
         return False
-
-
-print(better_is_palindrome("racecar"))
